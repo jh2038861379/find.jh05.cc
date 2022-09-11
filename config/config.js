@@ -42,7 +42,7 @@ var config = {
     url: [
         //背景图、头像、作品展示背景、其他经历背景
         "https://img.xjh.me/random_img.php?return=302",
-        "https://fastly.jsdelivr.net/gh/jh2038861379/CDN_images/profile/ring/png/128x128.png",
+        "https://cdn.statically.io/gh/jh2038861379/CDN_images/main/profile/ring/png/128x128.png",
     ]
 
 }
