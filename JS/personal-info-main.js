@@ -1,5 +1,5 @@
 function addScript(url) {
-    document.write("<script language=javascript src=./config/config.js></script>");
+    document.write("<script language=javascript src=https://cdn.staticaly.com/gh/jh2038861379/find.jh05.cc/main/config/config.js></script>");
 }
 addScript();
 //不使用配置文件请注释点上面代码
